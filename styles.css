@@ -1,0 +1,14 @@
+/*# sourceMappingURL=styles.css.map */
+
+.quiz-container{
+    display: flex;
+    background: linear-gradient(90deg, #00A0D7 0%, #6ABF4B 100%);
+
+
+  }
+  .quizNight-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
